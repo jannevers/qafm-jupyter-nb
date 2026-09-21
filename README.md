@@ -1,1 +1,1 @@
-https://hub.2i2c.mybinder.org/user/jannevers-qafm-jupyter-nb-l80ipyqh/lab/tree/qafm_publication_examples.ipynb
+https://mybinder.org/v2/gh/jannevers/qafm-jupyter-nb/main?urlpath=%2Fdoc%2Ftree%2Fqafm_publication_examples.ipynb
